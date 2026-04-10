@@ -1,0 +1,12 @@
+{
+	"lockAllScaling": false,
+	"bypassScalingLock": {
+		"userDisplayName": "TestBypass1",
+		"userDisplayName": "TestBypass2"
+	}
+	"blacklistScaling": {
+		"userDisplayName": "Test",
+		"userDisplayName": "Test2"
+	}
+	
+}

@@ -12,11 +12,11 @@
   "whiteListedHost": [
     {
       "userDisplayName": "Goddessaur",
-      "instanceSettingsId": 1
+      "instanceSettingsPath": "main"
     },
     {
       "userDisplayName": "Snapmatic",
-      "instanceSettingsId": 1
+      "instanceSettingsPath": "main"
     }
   ]
 }
