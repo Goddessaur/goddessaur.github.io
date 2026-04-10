@@ -1,1 +1,22 @@
-
+{
+  "elevatedList": [
+    {
+      "userDisplayName": "Goddessaur",
+      "level": 999999
+    },
+    {
+      "userDisplayName": "Snapmatic",
+      "permissionLevel": 999999
+    }
+  ],
+  "whiteListedHost": [
+    {
+      "userDisplayName": "Goddessaur",
+      "instanceSettingsId": 1
+    },
+    {
+      "userDisplayName": "Snapmatic",
+      "instanceSettingsId": 1
+    }
+  ]
+}
