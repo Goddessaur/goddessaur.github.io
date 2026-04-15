@@ -1,22 +1,24 @@
 {
-  "elevatedList": [
-    {
-      "userDisplayName": "Goddessaur",
-      "level": 999999
-    },
-    {
-      "userDisplayName": "Snapmatic",
-      "permissionLevel": 999999
-    }
-  ],
-  "whiteListedHost": [
-    {
-      "userDisplayName": "Goddessaur",
-      "instanceSettingsPath": "main"
-    },
-    {
-      "userDisplayName": "Snapmatic",
-      "instanceSettingsPath": "main"
-    }
-  ]
+  "worldConfig": {
+    "elevatedList": [
+      {
+        "userDisplayName": "Goddessaur",
+        "level": 999999
+      },
+      {
+        "userDisplayName": "Snapmatic",
+        "permissionLevel": 999999
+      }
+    ],
+    "whiteListedHost": [
+      {
+        "userDisplayName": "Goddessaur",
+        "instanceSettingsPath": "main"
+      },
+      {
+        "userDisplayName": "Snapmatic",
+        "instanceSettingsPath": "main"
+      }
+    ]
+  }
 }
