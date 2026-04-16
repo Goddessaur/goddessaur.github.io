@@ -10,9 +10,11 @@
         "permissionLevel": 999999
       }
     ],
-    "wallPictures": {
-      "picture1Path": "assets/image/1",
-      "picture2Path": "assets/image/2"
+    "assets": {
+      "image": {
+        "picture1Path": "assets/image/1",
+        "picture2Path": "assets/image/2"
+      }
     }
   }
 }
