@@ -1,12 +1,18 @@
 {
-	"lockAllScaling": false,
-	"bypassScalingLock": {
-		"userDisplayName": "TestBypass1",
-		"userDisplayName": "TestBypass2"
-	}
-	"blacklistScaling": {
-		"userDisplayName": "Test",
-		"userDisplayName": "Test2"
-	}
-	
+  "instanceConfig": {
+    "elevatedList": [
+      {
+        "userDisplayName": "Goddessaur",
+        "permissionLevel": 999999
+      },
+      {
+        "userDisplayName": "Snapmatic",
+        "permissionLevel": 999999
+      }
+    ],
+    "wallPictures": {
+      "picture1Path": "assets/image/1",
+      "picture2Path": "assets/image/2"
+    }
+  }
 }
