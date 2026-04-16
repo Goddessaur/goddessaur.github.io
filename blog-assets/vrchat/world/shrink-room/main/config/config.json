@@ -12,8 +12,8 @@
     ],
     "assets": {
       "image": {
-        "picture1Path": "assets/image/1",
-        "picture2Path": "assets/image/2"
+        "painting1": "assets/image/painting1",
+        "painting2": "assets/image/painting2"
       }
     }
   }
