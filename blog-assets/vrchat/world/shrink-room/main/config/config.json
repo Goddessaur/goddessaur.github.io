@@ -3,11 +3,11 @@
     "elevatedList": [
       {
         "userDisplayName": "Goddessaur",
-        "permissionLevel": 999999
+        "permissionLevel": 2147483647
       },
       {
         "userDisplayName": "Snapmatic",
-        "permissionLevel": 999999
+        "permissionLevel": 9999
       }
     ],
     "assets": {
